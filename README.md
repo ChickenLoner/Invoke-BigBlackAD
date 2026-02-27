@@ -164,7 +164,7 @@ Tell him: *"I need AD help. Chicken0248 sent me."*
 
 ## ⚠️ Disclaimer
 
-This tool is an **inside joke** created for our pentesting team. It does not perform any actual Active Directory enumeration, exploitation, or reconnaissance. Any resemblance to a real security tool is purely for comedic effect.
+This tool is an **inside joke** created for our pentesting team. The first version of this tool does not perform any actual Active Directory enumeration, exploitation, or reconnaissance. Any resemblance to a real security tool is purely for comedic effect.
 
 Please do not use this on client engagements. Unless the client asks why you're opening Facebook mid-pentest. Then it's their fault.
 
