@@ -144,12 +144,12 @@ PDC                            dc01.wowza.local
 
 | Mode | Flag | Behaviour |
 |:-----|:-----|:----------|
-| **Audit** *(default)* | `-Mode Audit` | Conservative, DCOnly BloodHound collection, lower noise |
-| **Lab** | `-Mode Lab` | Loads optional tools (PowerView if found), full BloodHound collection, opens Facebook at completion |
+| **Lab** *(default)* | `-Mode Lab` | Conservative, DCOnly BloodHound collection, lower noise |
+| **Fullenumeration** | `-Fullenumeration` | Loads optional tools (PowerView if found), full BloodHound collection, opens Facebook at completion |
 
 ### 7️⃣ OPSEC
-- No automatic tool downloads — optional scripts must be placed locally under `.\Tools\`
-- PowerView is only loaded in `Lab` mode or when `-EnableOptionalTools` is specified
+- No automatic tool downloads — optional scripts must be placed locally under `.\`
+- PowerView is only loaded in `-Fullenumeration` 
 - Share enumeration targets only the PDC (fast mode) to reduce domain-wide noise
 
 ---
