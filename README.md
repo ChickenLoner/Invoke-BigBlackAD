@@ -89,38 +89,36 @@ PDC                            dc01.wowza.local
 ## 🛠️ Features
 
 🔹 1️⃣ Core AD Enumeration
-✅ Domain Information
-✅ User Enumeration
-✅ AS-REP Roast Check
-✅ Kerberoastable Accounts
-✅ Group Enumeration
-✅ Network Share Enumeration
-✅ Delegation Check
-✅ ACL Check
+- ✅ Domain Information
+- ✅ User Enumeration
+- ✅ AS-REP Roast Check
+- ✅ Kerberoastable Accounts
+- ✅ Group Enumeration
+- ✅ Network Share Enumeration
+- ✅ Delegation Check
+- ✅ ACL Check
 
 🔹 2️⃣ BloodHound Integration
-✅ SharpHound Auto Detection
-✅ Collection Mode
-✅ Export Zip
+- ✅ SharpHound Auto Detection
+- ✅ Collection Mode
+- ✅ Export as Zip
 
 🔹 3️⃣ AD Recycle Bin Inspector (Read-Only)
-✅ Restore-DeletedADObject
+- ✅ Restore-DeletedADObject
 
 🔹 4️⃣ Token & Privilege Analyzer (Full Host Context Module)
-✅ whoami /priv
-✅ whoami /all
-✅ whoami /groups
-✅ whoami /user
-✅ Integrity Detection
-Low / Medium / High / System
-
-✅ Elevated Detection
-✅ UAC Posture
-✅ LSA Posture
-✅ Export
+- ✅ whoami /priv
+- ✅ whoami /all
+- ✅ whoami /groups
+- ✅ whoami /user
+- ✅ Integrity Detection -> Low / Medium / High / System
+- ✅ Elevated Detection
+- ✅ UAC Posture
+- ✅ LSA Posture
+- ✅ Export
 
 🔹 5️⃣ Reporting
-✅ Summary Report Generator
+- ✅ Summary Report Generator
 
 🔹 6️⃣ Modes
 
