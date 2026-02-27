@@ -1,5 +1,8 @@
 # Invoke-BigBlackAD 🖤
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e2a94bd-3863-4e42-b977-a6019ae6f368" />
+
+
 > *"When your pentest hits a wall, there's only one man for the job."*
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?style=for-the-badge&logo=powershell)
